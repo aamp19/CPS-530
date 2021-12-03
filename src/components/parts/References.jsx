@@ -26,7 +26,7 @@ const References = () => {
                 </tr>
                 <tr>
                     <td>
-                        <img src="aamp.jpg" alt="" />
+                        <img src="aamp.JPG" alt="" />
                         <div>Atschuthan</div>
                     </td>
                     <td>
